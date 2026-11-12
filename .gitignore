@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+backend/proofchain.db
+backend/uploads/*
+
+frontend/node_modules/
+frontend/dist/
+
